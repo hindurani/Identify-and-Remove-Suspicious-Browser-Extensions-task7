@@ -1,0 +1,23 @@
+Extension Name: AdBlock
+Developer: AdBlock Inc.
+Permissions: Access to website data
+Status: Kept
+Reason: Reputable developer, minimal permissions, actively used for ad-blocking
+
+Extension Name: Grammarly
+Developer: Grammarly Inc.
+Permissions: Read and change data on specific websites
+Status: Kept
+Reason: Well-known tool, necessary for writing assistance, good reviews
+
+Extension Name: Unknown Toolbar
+Developer: Unknown
+Permissions: Access all website data, modify browser settings
+Status: Removed
+Reason: Unrecognized, excessive permissions, no reviews, potential security risk
+
+Extension Name: Coupon Finder
+Developer: CouponBuddy
+Permissions: Access browsing history, read all website data
+Status: Removed
+Reason: Unused, suspicious permissions, low rating on Chrome Web Store
